@@ -8,5 +8,3 @@ ich findes es ziemlich aufwendig, dafür erst einen account anlegen zu müssen.
 Immerhin habe ich keinen Zugriff auf das projekt und wollte / könnte dort keine unauthorisierten Veränderungen vornehmen.
 
 Vielleicht sollte für Kommentare/ Anfragen/ Vorschläge ein "Gast"-Zugang ohne förmliche Registrierung ermöglicht werden.
-
-Begründung für diesen Git-Acount, zwei Schreibfehler korrigiert
